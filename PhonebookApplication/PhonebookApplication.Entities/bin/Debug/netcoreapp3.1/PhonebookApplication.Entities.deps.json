@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "PhonebookApplication.Entities/1.0.0": {
+        "runtime": {
+          "PhonebookApplication.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PhonebookApplication.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
